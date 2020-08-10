@@ -1,0 +1,20 @@
+{
+  "name": "eston",
+  "version": "1.0.0",
+  "description": "Estoque_online",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Guilherme_Tauil",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^2.0.4",
+    "require-dir": "^1.2.0"
+  }
+}
